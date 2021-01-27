@@ -1,0 +1,13 @@
+.Pdiv{
+    margin-top: 10px;
+    padding: 3px;
+    border: 2px solid cornflowerblue;
+    box-shadow: 0px 20px 30px #ccc;
+    width: 318px;
+}
+
+.Pdiv:hover{
+    
+    box-shadow: 20px 40px 60px #ccc;
+    background-color: #00000085;
+}
